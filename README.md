@@ -12,7 +12,7 @@ To run this project you have to do few steps:
 <br>
 2️⃣ - After npm start
 
-🥸 - This project idea was to make a dweb-site with diets for people who want to be super skinny that's why there is used slogan such as "Find out their beauty secret" because all we know that Victroia's secret models always used to be super skinny  
+🥸 - This project idea was to make a web-site with diets for people, who want to be super skinny that's why there is used slogan such as "Find out their beauty secret" because all we know that Victroia's secret models always used to be super skinny  
 
 Of course this project is still in development and I have plans to finish it. 
 
